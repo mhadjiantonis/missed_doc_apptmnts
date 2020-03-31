@@ -14,5 +14,5 @@ conclusions is performed in the main file
 
 ## Requirements
 Requirements for this project are listed in the file
-[requirements.txt](requirememnts.txt).
+[requirements.txt](requirements.txt).
 Alternatively, a YAML file [DA_proj2.yaml](DA_proj2.yaml) is provided.
