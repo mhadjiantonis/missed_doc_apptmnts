@@ -11,6 +11,8 @@ patient missing their scheduled appointment.
 All the analysis, including data wrangling, visualizations and drawing
 conclusions is performed in the main file
 [missed_doc_apptmnt.ipynb](missed_doc_apptmnt.ipynb).
+A static rendered version of the notebook is can be found in
+[missed_doc_apptmnt.html](missed_doc_apptmnt.html).
 
 ## Requirements
 Requirements for this project are listed in the file
