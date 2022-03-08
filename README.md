@@ -16,4 +16,4 @@ A static rendered version of the notebook can be found in
 
 ## Requirements
 Requirements for this project are listed in the file
-[DA_proj2.yaml](DA_proj2.yaml).
+[requirements.yaml](requirements.yaml).
